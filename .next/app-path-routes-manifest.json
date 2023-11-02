@@ -1,0 +1,11 @@
+{
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/betting/page": "/betting",
+  "/events/page": "/events",
+  "/chess/page": "/chess",
+  "/hunger-games/page": "/hunger-games",
+  "/lottery/page": "/lottery",
+  "/giveaways/page": "/giveaways",
+  "/shows/page": "/shows"
+}

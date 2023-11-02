@@ -1,0 +1,11 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/betting/page": "app/betting/page.js",
+  "/events/page": "app/events/page.js",
+  "/chess/page": "app/chess/page.js",
+  "/hunger-games/page": "app/hunger-games/page.js",
+  "/lottery/page": "app/lottery/page.js",
+  "/giveaways/page": "app/giveaways/page.js",
+  "/shows/page": "app/shows/page.js"
+}
